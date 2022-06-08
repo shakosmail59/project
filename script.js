@@ -137,3 +137,16 @@ let decr = 10;
 
 console.log(++incr);
 console.log(--decr);
+
+
+
+   // &&
+   // ||
+
+const isChecked = true,
+       isClose = true;
+
+       console.log(isChecked && isClose);
+       console.log(isChecked || !isClose);
+
+
